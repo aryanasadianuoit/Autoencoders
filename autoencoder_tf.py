@@ -90,4 +90,5 @@ plt.axis('off')
 plt.legend()
 plt.tight_layout()
 plt.savefig("embedding.png")
+#
 plt.show()
